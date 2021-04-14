@@ -2,4 +2,6 @@
 
 Yiqi and Ricardo 's intern project in 2021 Spring
 
-Good luck to us!
+Travor, Workspace, AWS Database, Andy and other nursedash staff... All good resources.
+
+We Gonna do good things, don't we?
