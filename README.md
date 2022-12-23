@@ -1,7 +1,19 @@
-# nursedash
 
-Yiqi and Ricardo 's intern project in 2021 Spring
 
-Travor, Workspace, AWS Database, Andy and other nursedash staff... All good resources.
+Nursedash
+---
 
-We Gonna do amazing things, don't we?
+Last Updated: 2021 Spring
+
+Author: Yiqi and Ricardo 
+
+---
+
+Detail
+---
+Nursedash helps connect clinicians with facilities that needs staffing support. However assigned clinicians cancell the shift within 24hr and usually nursedash don't have clinicians to fill the role, which causes staff shorage and endanger client relationships with the facilites.
+
+This project focus on predicting each assigned clinicians' urgent cancellation probability(cancell their assigned shift within 24 hr) 
+
+---
+
